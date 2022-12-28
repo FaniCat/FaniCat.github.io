@@ -13,7 +13,7 @@ titulo.append(imagjs);
 
 /*Funcion de evento*/
 function btnclick(){
-descansar.innerHTML='miau';
+descansar.innerHTML='Subiendo proyectos en los siguientes días <3';
     }
 
     /*Evento con createElement*/
