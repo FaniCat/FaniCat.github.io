@@ -5,10 +5,19 @@
 
   body {font-family: sans-serif; 
     font-size: 14px;
-  background-image: url(./60fad4fa58d8910eb2ce09d1_Cover-Pastel-Thumbnail-1-2.png);
-  background-size: 100%;
+    background-color: #fedbd0;
+    border:10px solid #4fe0b0;
+  
   
   }
+
+  .bloque {
+    border: 5px solid #b4146452;
+    padding: 10px;
+    margin: 10px 50px;
+    
+  }
+  
 
   #navlist { padding: 1px 0px;
   border-bottom: 1px solid #778;
@@ -33,7 +42,7 @@
 
   #lista1 li{
     display:inline;
-    padding: 0px 0px 0px 50px;
+    padding-right: 40px;
     margin: 0px;
     font-size: 24px;
     font-family: 'Courgette', cursive;
@@ -42,13 +51,13 @@
 
   .proyectos li{
     display:inline;
-    padding: 0px 0px 0px 50px;
+    padding-right: 40px;
     font-family: 'Courgette', cursive;
    margin: 0%;
   }
 
   #proyectos{
-    padding: 0px 0px 0px 50px;
+    
     border: 0px;
     margin: 0%
  
@@ -59,6 +68,7 @@
     font-family: 'Courgette', cursive;
     font-weight: 400;
     font-size: 40px;
+    margin-top: 55px;
   }
 
   p{
